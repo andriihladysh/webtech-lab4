@@ -1,0 +1,106 @@
+
+/* home html */
+.home
+{
+    background-color: rgba(0, 0, 0, 0.519);
+}
+.navlist 
+{
+    border-style: solid;
+    background-color: rgb(195, 212, 7) ; 
+    width: 350px; 
+    height: 100px; 
+    display: flex; 
+    position: relative;
+     left: 450px ; 
+    bottom: 230px;
+} 
+.text {
+    
+    color: black; 
+    
+}
+.greet 
+{
+ border-style: dashed; border-color: black;
+ display: flex;
+ position: relative;
+ top: 200px;
+ left: 495px;
+ width: auto;
+ height: auto;
+}
+.p1greet
+{
+    width: 250px;
+    border-style: ridge; border-color: brown;
+    position: relative; bottom: 50px; ; left: 500px;
+}
+/* //about html */
+
+.about
+{
+    background-color: rgb(127, 78, 172);
+}
+.ul1
+{
+    background-color: rgb(78, 164, 164);
+    width: 250px;
+    display: flex; position: relative;
+}
+.ul2
+{
+    background-color: rgb(78, 164, 164);
+    width: 250px;
+    display: flex; position: relative; left: 1020px; bottom: 32px;
+}
+.abtext
+{
+    color: black;
+    background-color: purple;
+    width: 76%; 
+    display: flex; position: relative; margin: auto; padding: 20px;
+}
+
+.imgab
+{
+  display: flex; position: relative; bottom: 45px;
+  margin: auto;
+  padding: 10px;
+}
+
+/* poem */
+.shevchenko
+{
+    width: 30%;
+}
+.nenka
+{
+    display: flex; position: relative;
+    background-color: blue ;
+    color: yellow;
+    width: 30%;
+    font-size: 50px;
+    border-style: dashed;
+}
+
+.poem
+{
+    display: flex; position: relative;
+    margin-left: 500px; 
+    width: 25%; 
+    bottom: 500px;
+    font-size: 17px;
+    background-color: burlywood;
+    border-style: solid;
+    
+}
+.navlist1
+{
+    border-style: solid;
+    background-color: rgb(195, 212, 7);
+     display: flex; position: relative; margin-left: auto; bottom: 1000px;
+     width: 20%;
+    
+    
+}
